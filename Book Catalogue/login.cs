@@ -22,15 +22,15 @@ namespace Book_Catalogue
         {
             try
             {
-                var sr = new System.IO.StreamReader("C:\\" + textBox1.Text + "\\login.ID");
-                username = sr.ReadLine();
-                password = sr.ReadLine();
-                sr.Close();
+                //var sr = new System.IO.StreamReader("C:\\" + textBox1.Text + "\\login.ID");
+                //username = sr.ReadLine();
+                //password = sr.ReadLine();
+                //sr.Close();
 
                 if (username == textBox1.Text && password == textBox2.Text)
                 {
                     MessageBox.Show("you are now successfully logged in!", "Success");
-                    Form1 buchcatalog = new Form1();
+                    BookCatalogue buchcatalog = new BookCatalogue();
                     buchcatalog.Show();
                 }
                 else

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Book_Catalogue
 {
-    public partial class Form1 : Form
+    public partial class BookCatalogue : Form
     {
-        public Form1()
+        public BookCatalogue()
         {
             InitializeComponent();
         }
@@ -23,7 +23,7 @@ namespace Book_Catalogue
         }
 
         // 2. Form für Bibliothek
-        Form2 f2 = new Form2();
+        Bibliothek f2 = new Bibliothek();
         private void biblio_Click(object sender, EventArgs e)
         {
             f2.Show();

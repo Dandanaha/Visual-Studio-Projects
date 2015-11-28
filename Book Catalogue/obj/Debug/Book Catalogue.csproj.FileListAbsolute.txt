@@ -14,3 +14,16 @@ c:\users\dandanaha\documents\visual studio 2013\Projects\Book Catalogue\Book Cat
 C:\Users\Dandanaha\Documents\Visual Studio 2015\Projects\Book Catalogue\Book Catalogue\bin\Debug\Book Catalogue.exe.config
 C:\Users\Dandanaha\Documents\Visual Studio 2015\Projects\Book Catalogue\Book Catalogue\obj\Debug\Book Catalogue.exe
 C:\Users\Dandanaha\Documents\Visual Studio 2015\Projects\Book Catalogue\Book Catalogue\obj\Debug\Book Catalogue.pdb
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\bin\Debug\Book Catalogue.exe.config
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\obj\Debug\Book Catalogue.exe
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\obj\Debug\Book Catalogue.pdb
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\bin\Debug\Book Catalogue.exe
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\bin\Debug\Book Catalogue.pdb
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\obj\Debug\Book Catalogue.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\obj\Debug\Book_Catalogue.loginForm.resources
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\obj\Debug\Book_Catalogue.Properties.Resources.resources
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\obj\Debug\Book_Catalogue.rigisterForm.resources
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\obj\Debug\Book_Catalogue.sammlung.resources
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\obj\Debug\Book Catalogue.csproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\obj\Debug\Book_Catalogue.BookCatalogue.resources
+C:\Users\Christopher\Documents\GitHub\Visual-Studio-Projects\Book Catalogue\obj\Debug\Book_Catalogue.Bibliothek.resources

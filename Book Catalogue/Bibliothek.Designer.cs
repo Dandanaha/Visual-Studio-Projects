@@ -1,6 +1,6 @@
 ﻿namespace Book_Catalogue
 {
-    partial class Form2
+    partial class Bibliothek
     {
         /// <summary>
         /// Required designer variable.

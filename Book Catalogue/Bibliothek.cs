@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Book_Catalogue
 {
-    public partial class Form2 : Form
+    public partial class Bibliothek : Form
     {
-        public Form2()
+        public Bibliothek()
         {
             InitializeComponent();
         }
